@@ -1,0 +1,5 @@
+LTS 客户端测试成功
+
+springboot 例子测试成功 
+
+其中 jobclient jobtracker  tasktracker 都可以单独部署
