@@ -36,7 +36,7 @@
 		<javax.mail.version>1.5.4</javax.mail.version>
 		<spring.boot.version>1.5.7.RELEASE</spring.boot.version>
 		<lts.version>1.7.0</lts.version>
-		<quartz.version>2.2.2</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<javassist.version>3.20.0-GA</javassist.version>
 	</properties>
 
